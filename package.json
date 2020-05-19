@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "role playing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durcoorigin/jest-another-RPG.git"
+  },
+  "author": "Chris Short",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durcoorigin/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/durcoorigin/jest-another-RPG#readme"
+}
