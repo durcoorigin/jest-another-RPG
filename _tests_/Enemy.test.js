@@ -59,4 +59,4 @@ test("gets enemy's health value", () => {
 
     expect(enemy.getDescription()).toEqual(expect.stringContaining('goblin'));
     expect(enemy.getDescription()).toEqual(expect.stringContaining('sword'));
-  })
+  });
